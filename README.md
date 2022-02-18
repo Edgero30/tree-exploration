@@ -7,9 +7,9 @@ Obstacle: -1
 Goal: 2
 Initial position: 0
 
-the code must give the path to the goal using BFS and DFS algorithms
-you can move in all directions including diagonal moves
-each diagonal move cost = squared root of 2
-and each horizontal or vertical move cost = 1
+the code must give the path to the goal using BFS and DFS algorithms,
+you can move in all directions including diagonal moves,
+each diagonal move cost = squared root of 2,
+and each horizontal or vertical move cost = 1,
 
 this code was made by: Khldoon
